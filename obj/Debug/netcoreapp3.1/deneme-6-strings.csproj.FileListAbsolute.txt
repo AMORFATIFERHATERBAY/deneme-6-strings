@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/bin/Debug/netcoreapp3.1/deneme-6-strings.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/bin/Debug/netcoreapp3.1/deneme-6-strings.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/bin/Debug/netcoreapp3.1/deneme-6-strings.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/bin/Debug/netcoreapp3.1/deneme-6-strings.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/bin/Debug/netcoreapp3.1/deneme-6-strings.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/obj/Debug/netcoreapp3.1/deneme-6-strings.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/obj/Debug/netcoreapp3.1/deneme-6-strings.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/obj/Debug/netcoreapp3.1/deneme-6-strings.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/obj/Debug/netcoreapp3.1/deneme-6-strings.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/obj/Debug/netcoreapp3.1/deneme-6-strings.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/obj/Debug/netcoreapp3.1/deneme-6-strings.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-6-strings/obj/Debug/netcoreapp3.1/deneme-6-strings.genruntimeconfig.cache
